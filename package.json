@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wrld-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WRLD ESLint configuration for React projects.",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WRLD",
-  "license": "See https://github.com/wrld3d/eslint-config-wrld-react/blob/master/LICENSE",
+  "license": "See https://github.com/wrld3d/eslint-config-wrld-react/blob/master/LICENSE.md",
   "dependencies": {
     "eslint-plugin-react": "7.x.x",
     "eslint-plugin-node": "11.x.x"
